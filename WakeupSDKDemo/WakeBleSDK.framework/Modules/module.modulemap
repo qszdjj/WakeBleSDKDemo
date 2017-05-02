@@ -1,0 +1,6 @@
+framework module WakeBleSDK {
+  umbrella header "WakeBleSDK.h"
+
+  export *
+  module * { export * }
+}
